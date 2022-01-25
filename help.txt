@@ -3,4 +3,5 @@
 I can read about more function by nplug + vim. && nvim.
 
 
-make one
+omg
+make one name
