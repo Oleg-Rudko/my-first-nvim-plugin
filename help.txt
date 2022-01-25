@@ -1,3 +1,6 @@
 :h vim.
 :h nvim.
 I can read about more function by nplug + vim. && nvim.
+
+
+make
